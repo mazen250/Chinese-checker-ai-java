@@ -23,6 +23,6 @@ Note: when it's ai turn it keep freeze , we tried alot of ideas but it was not a
 
 so kindly accept what we did since we wrote every line of it without copying anything
 
-everything mentioned above works , and the bug also mentioned , so kindly if you couldn't run any part probebly let me know to avoid losing more makrs
+everything mentioned above works , and the bug also mentioned , so kindly if you couldn't run any part probebly let me know
 
 Thanks in advance
